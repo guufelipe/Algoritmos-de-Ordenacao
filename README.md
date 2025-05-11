@@ -32,4 +32,5 @@ Para cada algoritmo, imprimir:
 
 
 Todos os códigos são implementados em Python puro sem dependência de bibliotecas externas.
+
 Desenvolvido por Gustavo Felipe A. da Silva
