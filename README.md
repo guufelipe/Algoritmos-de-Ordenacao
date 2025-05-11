@@ -5,10 +5,10 @@ Este projeto foi desenvolvido como parte de um desafio durante os estudos da dis
 Cada letra é convertida para um número conforme a seguinte correspondência:  
 **A = 1, B = 2, C = 3, ..., Z = 26**
 
----
+
 
 ## Sequência Utilizada
-  <RMQFPWZYKASIOHBJLVU>
+ -- RMQFPWZYKASIOHBJLVU --
 
 
 ## Regras e Objetivos do Desafio
